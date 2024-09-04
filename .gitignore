@@ -1,0 +1,2 @@
+#exclude backend env
+backend/venv/
